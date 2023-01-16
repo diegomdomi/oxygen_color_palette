@@ -19,7 +19,7 @@ useEffect(() => {
 }, [color1,color2,color3,color4,color5])
 
 
-const [color,setColor] = useState('#000000')
+const [color,setColor] = useState('#FF4136')
 const [circle1,setCircle1] = useState (estilos)
 const [circle2,setCircle2] = useState (estilos)
 const [circle3,setCircle3] = useState (estilos)
