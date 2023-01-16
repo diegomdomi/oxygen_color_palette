@@ -1,3 +1,6 @@
+This is a project that generates a random color picker with 5 different colors
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
